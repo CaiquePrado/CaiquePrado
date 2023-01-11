@@ -1,6 +1,6 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=120&selection=header"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Olá+Eu+sou+o+Caique+!!!;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Olá+,+Eu+sou+o+Caique+!!!;)](https://git.io/typing-svg)
 
 
 ### Tecnologias que eu uso:
